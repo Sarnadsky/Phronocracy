@@ -4,6 +4,7 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-green)
 ![Languages](https://img.shields.io/badge/languages-EN%20%7C%20RU-orange)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19652261.svg)](https://doi.org/10.5281/zenodo.19652261)
 
 <div align="center">
   <img src="assets/logo.png" alt="Phronocracy Logo" width="200"/>
