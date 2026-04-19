@@ -1,78 +1,51 @@
-# How to Cite
+# Citation / Цитирование
 
-## Standard Citation Formats
+## English
 
-### APA 7th Edition
+**APA:**
 ```
-Sarnadsky, N. (2026). Phronocracy: A Political Model Based on Prognostic Accuracy and Absolute Responsibility. 
-https://github.com/Sarnadsky/phronocracy
-```
-
-### MLA 9th Edition
-```
-Sarnadsky, Nikita. "Phronocracy: A Political Model Based on Prognostic Accuracy and Absolute Responsibility." 
-GitHub, 2026, https://github.com/Sarnadsky/phronocracy.
+Sarnadsky, N. (2026). Phronocracy: A Political Model Based on Prognostic Accuracy and Absolute Responsibility. Zenodo. https://doi.org/10.5281/zenodo.19652261
 ```
 
-### Chicago 17th Edition
+**Chicago:**
 ```
-Sarnadsky, Nikita. 2026. "Phronocracy: A Political Model Based on Prognostic Accuracy and Absolute Responsibility." 
-GitHub. https://github.com/Sarnadsky/phronocracy.
-```
-
-### Harvard
-```
-Sarnadsky, N. (2026) Phronocracy: A Political Model Based on Prognostic Accuracy and Absolute Responsibility. 
-Available at: https://github.com/Sarnadsky/phronocracy.
+Sarnadsky, Nikita. "Phronocracy: A Political Model Based on Prognostic Accuracy and Absolute Responsibility." 2026. https://doi.org/10.5281/zenodo.19652261
 ```
 
----
-
-## BibTeX
-
+**BibTeX:**
 ```bibtex
 @misc{sarnadsky2026phronocracy,
-  author = {Sarnadsky, Nikita},
-  title = {Phronocracy: A Political Model Based on Prognostic Accuracy and Absolute Responsibility},
-  year = {2026},
-  url = {https://github.com/Sarnadsky/phronocracy},
-  note = {GitHub repository}
+  author    = {Sarnadsky, Nikita},
+  title     = {Phronocracy: A Political Model Based on Prognostic Accuracy and Absolute Responsibility},
+  year      = {2026},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.19652261},
+  url       = {https://doi.org/10.5281/zenodo.19652261}
 }
 ```
 
 ---
 
-## With DOI (after Zenodo submission)
+## Русский
 
-After DOI assignment, citations will be updated to:
-
-### APA (with DOI)
+**APA:**
 ```
-Sarnadsky, N. (2026). Phronocracy: A Political Model Based on Prognostic Accuracy and Absolute Responsibility. 
-https://doi.org/[DOI will be added]
+Сарнадский, Н. (2026). Фронократия: Политическая модель на основе прогностической точности и абсолютной ответственности. Zenodo. https://doi.org/10.5281/zenodo.19652261
 ```
 
-### BibTeX (with DOI)
+**Chicago:**
+```
+Сарнадский, Никита. «Фронократия: Политическая модель на основе прогностической точности и абсолютной ответственности». 2026. https://doi.org/10.5281/zenodo.19652261
+```
+
+**BibTeX:**
 ```bibtex
-@misc{sarnadsky2026phronocracy,
-  author = {Sarnadsky, Nikita},
-  title = {Phronocracy: A Political Model Based on Prognostic Accuracy and Absolute Responsibility},
-  year = {2026},
-  doi = {[DOI will be added]},
-  url = {https://github.com/Sarnadsky/phronocracy}
+@misc{sarnadsky2026phronocracy_ru,
+  author    = {Сарнадский, Никита},
+  title     = {Фронократия: Политическая модель на основе прогностической точности и абсолютной ответственности},
+  year      = {2026},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.19652261},
+  url       = {https://doi.org/10.5281/zenodo.19652261}
 }
 ```
-
----
-
-## Russian Citation Formats
-
-### ГОСТ Р 7.0.5-2008
-```
-Сарнадский Н. Фронократия: Политическая модель на основе прогностической точности и абсолютной ответственности. 
-2026. URL: https://github.com/Sarnadsky/phronocracy
-```
-
----
-
-**Note:** This file will be updated with DOI information after Zenodo submission.
